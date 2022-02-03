@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "project_number": "904955388583",
+    "firebase_url": "https://famous-hull-296005-default-rtdb.firebaseio.com",
+    "project_id": "famous-hull-296005",
+    "storage_bucket": "famous-hull-296005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904955388583:android:c57d9bfa8d9ff4fb35b182",
+        "android_client_info": {
+          "package_name": "com.merchantgeneric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904955388583-sfg7uqqeocaiabkf0uusvcpf928k652r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTo6xzaMWOFoVzK3c40hHTpAhR800qIV0"
+        },
+        {
+          "current_key": "AIzaSyBWR6vrY-zKIAJnbz6puDuq2x6gHt4xCOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904955388583-sfg7uqqeocaiabkf0uusvcpf928k652r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904955388583-qjfqm4qn3naj8qed10r2nan3844mifg7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myglu.consumerapp",
+                "app_store_id": "1544998889"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904955388583:android:7a16e4c5086afcd135b182",
+        "android_client_info": {
+          "package_name": "com.my_glu.merchant_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904955388583-b8nqpsj8uj5ar9amnu625bd0lbtd7mgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.my_glu.merchant_order",
+            "certificate_hash": "4d5643b9801d9c9769f0a22fea18a03e49d9bc09"
+          }
+        },
+        {
+          "client_id": "904955388583-sfg7uqqeocaiabkf0uusvcpf928k652r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTo6xzaMWOFoVzK3c40hHTpAhR800qIV0"
+        },
+        {
+          "current_key": "AIzaSyBWR6vrY-zKIAJnbz6puDuq2x6gHt4xCOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904955388583-sfg7uqqeocaiabkf0uusvcpf928k652r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904955388583-qjfqm4qn3naj8qed10r2nan3844mifg7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myglu.consumerapp",
+                "app_store_id": "1544998889"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904955388583:android:d320447b48d02e4535b182",
+        "android_client_info": {
+          "package_name": "com.my_glu.myglu_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904955388583-qlrhecl1a40d090pgfebkuuia320ld7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.my_glu.myglu_rider",
+            "certificate_hash": "4d5643b9801d9c9769f0a22fea18a03e49d9bc09"
+          }
+        },
+        {
+          "client_id": "904955388583-sfg7uqqeocaiabkf0uusvcpf928k652r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTo6xzaMWOFoVzK3c40hHTpAhR800qIV0"
+        },
+        {
+          "current_key": "AIzaSyBWR6vrY-zKIAJnbz6puDuq2x6gHt4xCOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904955388583-sfg7uqqeocaiabkf0uusvcpf928k652r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904955388583-qjfqm4qn3naj8qed10r2nan3844mifg7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myglu.consumerapp",
+                "app_store_id": "1544998889"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904955388583:android:c3dec6b7b6c89fc335b182",
+        "android_client_info": {
+          "package_name": "com.myglu.consumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904955388583-1044uvsuh8bvmdtqo901kstjuh62c7rl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myglu.consumer",
+            "certificate_hash": "4d5643b9801d9c9769f0a22fea18a03e49d9bc09"
+          }
+        },
+        {
+          "client_id": "904955388583-a82fh3d3or153k2ljrhnm8ks9eojj9u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myglu.consumer",
+            "certificate_hash": "b85c6f2a3f0750760f55e84a82cb5ebd536da21e"
+          }
+        },
+        {
+          "client_id": "904955388583-b9fulin09mvdqo3rlu4m2i0t5nl7em0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myglu.consumer",
+            "certificate_hash": "62c33273342988e075277c28db3cfa80147a941a"
+          }
+        },
+        {
+          "client_id": "904955388583-c93svqmhhiffoii31l8pvqmmrref43si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myglu.consumer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "904955388583-fq4ubokstjqs7a2anjpbq0eram38fbr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myglu.consumer",
+            "certificate_hash": "da91a28e0169e052a2fcf83a07ec582950128775"
+          }
+        },
+        {
+          "client_id": "904955388583-s6p6ids6a798pj74feggbg9sk3sphmue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myglu.consumer",
+            "certificate_hash": "9fd7e6805facb90bda983a90d5b90372acbb31f3"
+          }
+        },
+        {
+          "client_id": "904955388583-sfg7uqqeocaiabkf0uusvcpf928k652r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTo6xzaMWOFoVzK3c40hHTpAhR800qIV0"
+        },
+        {
+          "current_key": "AIzaSyBWR6vrY-zKIAJnbz6puDuq2x6gHt4xCOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904955388583-sfg7uqqeocaiabkf0uusvcpf928k652r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904955388583-qjfqm4qn3naj8qed10r2nan3844mifg7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myglu.consumerapp",
+                "app_store_id": "1544998889"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+/**
+ * created by Inspire UI @author(dang@inspireui.com)
+ * @format
+ */
+
+const FETCHING = "products/FETCHING";
+const FETCH_SUCCESS = "products/FETCH_SUCCESS";
+const FETCH_FAILURE = "products/FETCH_FAILURE";
+
+const CATEGORY_FETCHING = "category/FETCHING";
+const CATEGORY_SUCCESS = "category/SUCCESS";
+const IMAGE_UPDATE = "category/IMAGE_UPDATE";
+const FEATURE_SUCCESS = "feature/SUCCESS";
+const IMAGE_UPDATE_PRODUCTS = "feature/IMAGE_UPDATE_PRODUCTS";
+const CATEGORY_FAILURE = "category/FAILURE";
+
+const CATEGORY_SELECT = "category/SELECT";
+const CATEGORY_SWITCH_LAYOUT_MODE = "category/SWITCH_LAYOUT_MODE";
+
+export {
+  CATEGORY_FETCHING,
+  CATEGORY_SUCCESS,
+  CATEGORY_FAILURE,
+  CATEGORY_SELECT,
+  CATEGORY_SWITCH_LAYOUT_MODE,
+  FETCHING,
+  FETCH_SUCCESS,
+  FETCH_FAILURE,
+  FEATURE_SUCCESS,
+  IMAGE_UPDATE,
+  IMAGE_UPDATE_PRODUCTS
+};
